@@ -3,6 +3,7 @@ Materials for my 3-day 'Introduction to Clustering' class at [Mohammed VI Univer
 
 ## Slides
 * [Part I: Introduction, Concepts in Clustering, k-means algorithm and Hierarchical clustering](https://docs.google.com/presentation/d/1NinRqSr-vuDXVoxf99kdtYH5DFq1_fDCDmNMY76QoBA/edit?usp=sharing)
+* [Part II: Density-Mixture Based Clustering - Application to Gaussian Mixture Models and the EM algorithm](https://docs.google.com/presentation/d/1NIMpBLGFBa837lefO23Ef95a5sZ_9QK6wEGYz_H6dT8/edit?usp=sharing)
 
 ## Papers reading activity (day 2)
 * [**Determining the k in k-means using MapReduce**](https://hal.archives-ouvertes.fr/hal-01525708/document)
